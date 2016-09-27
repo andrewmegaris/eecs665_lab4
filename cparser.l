@@ -489,5 +489,5 @@ WS [ \t\v\n\f]
 
 int main( int argc, const char *argv[] ) {
     yylex();
-    return 0;
+    return 0  ;
 }
